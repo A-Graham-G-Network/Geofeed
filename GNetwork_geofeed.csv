@@ -7,7 +7,10 @@
 # 2001:67c:1230::/46,SG,SG-01,Singapore,
 # 46.137.79.134/32,,,,
 
-# REM Test by A.Graham as A-Graham-G-Network
+# When updating this file you must add a REM with the data shown including date and time and get it reviewed by Network.Support@G.Network
+
+# ******* Update List ********
+# Updated by A.Graham 2022-Jun-01, 16:24.  Added 7 Prefixes at the EoF.
 
 185.106.72.0/22,GB,,London,W1B2AF
 185.111.72.0/22,GB,,London,W1B2AF
